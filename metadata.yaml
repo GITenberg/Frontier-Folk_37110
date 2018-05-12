@@ -1,0 +1,25 @@
+_repo: Frontier-Folk_37110
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37110-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Booth, George
+    gutenberg_agent_id: '38654'
+    url: http://www.gutenberg.org/2009/agents/38654
+description: ''
+gutenberg_issued: '2011-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37110'
+  lccn: 02001295
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States'
+- !lcc 'F590.3'
+title: Frontier Folk
+url: http://www.gutenberg.org/ebooks/37110
